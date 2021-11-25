@@ -8,7 +8,7 @@
 
 ## 📢 Visite o site
 
-[Animation-button-dark-mode-toggle](https://robotsdeveloper.github.io/Animation-menu/).
+[Animation-button-dark-mode-toggle](https://lobinhodev.github.io/Animation-button-dark-mode-toggle/).
 
 ## 🧠 Tecnologias
 
