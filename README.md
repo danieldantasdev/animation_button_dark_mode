@@ -3,7 +3,7 @@
 ### Desktop/mobile
 
 <p align="center">
-  <img width="600" src=".github/Desktopmobile.gif">
+  <img width="600" src=".github/Desktopmobile.mp4">
 </p>
 
 ## 📢 Visite o site
