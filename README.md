@@ -8,7 +8,7 @@
 
 ## 📢 Visite o site
 
-[Animation-menu](https://robotsdeveloper.github.io/Animation-menu/).
+[Animation-button-dark-mode-toggle](https://robotsdeveloper.github.io/Animation-menu/).
 
 ## 🧠 Tecnologias
 
@@ -16,12 +16,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 -   HTML
 -   CSS
--   SASS
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## 💻 Projeto
 
-Menu com animações interativas.
+Menu com mudança para Dark Mode.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
